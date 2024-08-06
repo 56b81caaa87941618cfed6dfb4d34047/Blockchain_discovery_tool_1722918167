@@ -9,13 +9,13 @@ Vue.component("simple_footer_component_1722918168", {
                     <div class="flex">
                         <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-5 text-2xl font-semibold text-gray-900 dark:text-white">
                             <img id="footer-logo" src="./images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
-                            STARTER_TEMPLATE_APPLICATION_NAME
+                            CryptoExplorer - Discover the Decentralized Web
                         </a>
                     </div>
                 </div>
                 <div class="flex">
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
-                        STARTER_TEMPLATE_FOOTER_CONTENT
+                        Stay ahead of the blockchain curve with CryptoExplorer. Our app aggregates the latest news, projects, and insights from the rapidly evolving world of decentralized technologies. Join our community of forward-thinkers and never miss a beat in the digital revolution.
                     </div>
                 </div>
             </div>
